@@ -1,2 +1,2 @@
-# NeuralNetwork1
-Neural Network Test
+# Advanced Data Analytics
+Notebook di formazione
